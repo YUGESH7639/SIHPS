@@ -36,11 +36,22 @@ Offer exclusive access to webinars, recorded lectures, or industry insights.
 Introduce collaborative projects where alumni and students can contribute.
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/bfb01300-d996-422b-b523-104f25c85c78)
+![SIH 1](https://github.com/user-attachments/assets/f8f0140a-837b-436c-8b37-05d6c8f6df00)
+
+
+
+
+
+
+
 
 
 ## Use Cases
-![image](https://github.com/user-attachments/assets/f0c52689-f38c-4d05-b03d-6398f8700db5)
+
+![SIH 2](https://github.com/user-attachments/assets/22600756-7635-48fe-b560-6ae869821413)
+
+
+
 
 
 ## Technology Stack
